@@ -529,7 +529,8 @@ body{
 
 /* main start */
 .order{
-  background: #2F303A;
+  background: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/order_background.jpg") no-repeat center #2F303A;
+  background-size: 1600px;
   text-align: center;
 }
 .order__container{
